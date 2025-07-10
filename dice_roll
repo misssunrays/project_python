@@ -1,0 +1,8 @@
+# ask the user to play or not
+# if yes then, 
+# generate a random number
+# print it
+# else
+# terminate
+# or
+# exit
